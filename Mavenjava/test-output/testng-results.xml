@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="115" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="115" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+      <class name="qaclickacademy.app">
+        <test-method status="PASS" signature="appcrack()[pri:0, instance:qaclickacademy.app@5d76b067]" name="appcrack" duration-ms="0" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appcrack -->
+        <test-method status="PASS" signature="appcrack2()[pri:0, instance:qaclickacademy.app@5d76b067]" name="appcrack2" duration-ms="1" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appcrack2 -->
+        <test-method status="PASS" signature="appcrackki()[pri:0, instance:qaclickacademy.app@5d76b067]" name="appcrackki" duration-ms="1" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appcrackki -->
+      </class> <!-- qaclickacademy.app -->
+      <class name="qaclickacademy.mobile">
+        <test-method status="PASS" signature="mobiidemo1()[pri:0, instance:qaclickacademy.mobile@5a8806ef]" name="mobiidemo1" duration-ms="1" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobiidemo1 -->
+        <test-method status="PASS" signature="mobiijdemo1()[pri:0, instance:qaclickacademy.mobile@5a8806ef]" name="mobiijdemo1" duration-ms="1" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobiijdemo1 -->
+      </class> <!-- qaclickacademy.mobile -->
+      <class name="qaclickacademy.opp">
+        <test-method status="PASS" signature="oppmobdemo1()[pri:0, instance:qaclickacademy.opp@6c49835d]" name="oppmobdemo1" duration-ms="1" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oppmobdemo1 -->
+        <test-method status="PASS" signature="oppmobjdemo1()[pri:0, instance:qaclickacademy.opp@6c49835d]" name="oppmobjdemo1" duration-ms="1" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oppmobjdemo1 -->
+      </class> <!-- qaclickacademy.opp -->
+      <class name="qaclickacademy.selenium2Test">
+        <test-method status="PASS" signature="selmobdemssrrro1()[pri:0, instance:qaclickacademy.selenium2Test@5e853265]" name="selmobdemssrrro1" duration-ms="1" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selmobdemssrrro1 -->
+        <test-method status="PASS" signature="selmorrbjdemoss1()[pri:0, instance:qaclickacademy.selenium2Test@5e853265]" name="selmorrbjdemoss1" duration-ms="1" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selmorrbjdemoss1 -->
+      </class> <!-- qaclickacademy.selenium2Test -->
+      <class name="qaclickacademy.strange">
+        <test-method status="PASS" signature="crack()[pri:0, instance:qaclickacademy.strange@67205a84]" name="crack" duration-ms="1" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crack -->
+        <test-method status="PASS" signature="crack2()[pri:0, instance:qaclickacademy.strange@67205a84]" name="crack2" duration-ms="1" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crack2 -->
+        <test-method status="PASS" signature="cracki()[pri:0, instance:qaclickacademy.strange@67205a84]" name="cracki" duration-ms="1" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cracki -->
+      </class> <!-- qaclickacademy.strange -->
+      <class name="qaclickacademy.selenium">
+        <test-method status="PASS" signature="selmobdemo1()[pri:0, instance:qaclickacademy.selenium@7d0587f1]" name="selmobdemo1" duration-ms="1" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selmobdemo1 -->
+        <test-method status="PASS" signature="selmobjdemo1()[pri:0, instance:qaclickacademy.selenium@7d0587f1]" name="selmobjdemo1" duration-ms="0" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selmobjdemo1 -->
+      </class> <!-- qaclickacademy.selenium -->
+      <class name="qaclickacademy.mobile3">
+        <test-method status="PASS" signature="mobiiwdemo1()[pri:0, instance:qaclickacademy.mobile3@9660f4e]" name="mobiiwdemo1" duration-ms="11" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobiiwdemo1 -->
+        <test-method status="PASS" signature="mobiwijdemo1()[pri:0, instance:qaclickacademy.mobile3@9660f4e]" name="mobiwijdemo1" duration-ms="1" started-at="2020-04-06T14:13:04 BST" finished-at="2020-04-06T14:13:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobiwijdemo1 -->
+      </class> <!-- qaclickacademy.mobile3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
