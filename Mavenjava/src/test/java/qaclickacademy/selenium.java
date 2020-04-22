@@ -14,4 +14,10 @@ public class selenium {
 	{
 		System.out.println("selgbala134");
 	}
+	
+	@Test
+	public void Denisa1()
+	{
+		System.out.println("denisa");
+	}
 }

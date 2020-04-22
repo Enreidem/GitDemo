@@ -11,6 +11,7 @@ public class buna {
 		     WebDriver driver= new ChromeDriver(); 
 		    driver.get("http://google.com");
 		    
+		    //the name of the folder is sea
 
 	}
 
