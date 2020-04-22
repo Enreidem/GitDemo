@@ -20,4 +20,12 @@ public class selenium {
 	{
 		System.out.println("selgbaladdd134");
 	}
+	
+	@Test
+	public void gitdevelopdemo1()
+	{
+		System.out.println("develop");
+	}
+	
+	
 }
